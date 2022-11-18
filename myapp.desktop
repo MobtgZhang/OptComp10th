@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Covid19 Test
+Comment=Covid19 Test
+Exec=/home/mobtgzhang/PycharmProjects/newpro/run.sh
+Icon=/home/mobtgzhang/PycharmProjects/newpro/icon.png
+Terminal=true
+Type=Application
+Categories=Developer;
+
+
